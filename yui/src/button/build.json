@@ -1,0 +1,10 @@
+{
+  "name": "moodle-atto_stash-button",
+  "builds": {
+    "moodle-atto_stash-button": {
+      "jsfiles": [
+        "button.js"
+      ]
+    }
+  }
+}
